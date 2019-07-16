@@ -10,4 +10,14 @@
   background-size: cover;
  
 }
+wrap-login100 {
+
+  width: 400px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  float: left;
+  position: relative;
+
+}
 

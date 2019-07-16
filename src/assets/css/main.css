@@ -38,8 +38,8 @@
 }
 
 body, html {
-	height: 100%;
-	font-family: Poppins-Regular, sans-serif;
+	
+	font-family: Roboto-Regular, sans-serif;
 }
 
 /*---------------------------------------------*/
@@ -181,10 +181,12 @@ iframe {
 }
 
 .wrap-login100 {
-  width: 500px;
+  width: 400px;
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
+  float: left;
+  position: relative;
 }
 
 
