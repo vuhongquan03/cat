@@ -10,7 +10,7 @@ import { CustomMaterialModule } from './core/material.module';
 import { FormsModule } from '@angular/forms';
 import {
 
-  MatButtonModule, MatCardModule, MatDialogModule, MatInputModule, MatTableModule,
+     MatButtonModule, MatCardModule, MatDialogModule, MatInputModule, MatTableModule,
 
   MatToolbarModule, MatMenuModule, MatIconModule, MatProgressSpinnerModule
 
